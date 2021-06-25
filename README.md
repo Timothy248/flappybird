@@ -1,1 +1,1 @@
-# Flappy Bird written with Python
+## Flappy Bird written in Python
